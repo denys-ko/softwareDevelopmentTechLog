@@ -4,4 +4,9 @@ First Name:  XX
 Last Name:   XX
 YouTubeLink: XX
 // ================================================
+Number: 24
+First Name: Vitaliy
+Last Name: Shemchuk
+YouTubeLink: https://youtu.be/E2sr01djqLk?si=Dr-3T1VRVGJ-ndZG
+// ================================================
 
