@@ -5,3 +5,10 @@ Last Name:   XX
 YouTubeLink: XX
 // ================================================
 
+// ================================================
+Number:      1
+First Name:  Serhii
+Last Name:   Panchenko
+YouTubeLink: https://www.youtube.com/watch?v=JBjjnqG0BP8&t=8
+// ================================================
+
