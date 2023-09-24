@@ -12,3 +12,10 @@ Last Name:   Panchenko
 YouTubeLink: https://www.youtube.com/watch?v=JBjjnqG0BP8&t=8
 // ================================================
 
+// ================================================
+Number:      2
+First Name:  Anastasiia
+Last Name:   Tsurkan
+YouTubeLink: https://www.youtube.com/watch?v=u9Dg-g7t2l4
+// ================================================
+
