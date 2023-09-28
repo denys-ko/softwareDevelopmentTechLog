@@ -5,3 +5,9 @@ Last Name:   Vorobei
 YouTubeLink: https://www.youtube.com/watch?v=zOnwgxiC0OA&list=LL&index=1&t=1s
 // ================================================
 
+// ================================================
+Number:      02
+First Name:  Vadym
+Last Name:   Starovoitov
+YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+// ================================================
