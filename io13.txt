@@ -4,6 +4,11 @@ First Name:  XX
 Last Name:   XX
 YouTubeLink: XX
 // ================================================
+Number: 17
+First Name: Kostyantyn
+Last Name: Osypenko
+YouTubeLink: https://www.youtube.com/watch?v=14m3cS9yCrU&list=LL&index=32&t=1s
+// ================================================
 Number: 24
 First Name: Vitaliy
 Last Name: Shemchuk
