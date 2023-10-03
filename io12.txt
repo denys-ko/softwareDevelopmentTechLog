@@ -4,8 +4,3 @@ First Name:  XX
 Last Name:   XX
 YouTubeLink: XX
 // ================================================
-Number: 4
-First Name: Anton
-Last Name: Vorobiov
-YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-// ================================================
