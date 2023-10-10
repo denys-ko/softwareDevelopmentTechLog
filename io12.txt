@@ -9,3 +9,8 @@ First Name: Anton
 Last Name: Vorobiov
 YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 // ================================================
+Number: 2
+First Name: Taras
+Last Name: Vytvytskyi
+YouTubeLink: https://youtu.be/c39QPDTDdXU?si=LASXZV47Hrrd5xF5
+// ================================================
