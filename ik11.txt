@@ -4,8 +4,13 @@ First Name:  XX
 Last Name:   XX
 YouTubeLink: XX
 // ================================================
-
 Number:      10
 First Name:  Anastasiia
 Last Name:   Kaliuzhna
 YouTubeLink: https://youtu.be/Zv-XNlE1s8E?si=MpS_9bbe05sFbb5t&t=2
+// ================================================
+Number:      12
+First Name:  Nadiia
+Last Name:   Kachurynets
+YouTubeLink: https://youtu.be/AtC11VzHXWs?si=SG3JOMr_dZya9YfD
+// ================================================
