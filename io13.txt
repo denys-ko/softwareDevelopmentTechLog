@@ -41,4 +41,10 @@ First Name: Vitaliy
 Last Name: Shemchuk
 YouTubeLink: https://youtu.be/46ZXl-V4qwY?si=BAxpreuNjiOIF57c
 // ================================================
+Number: 28
+First Name: Lubomur
+Last Name: Yasinsky
+YouTubeLink: https://youtu.be/8YuW51G1tE8
+// ================================================
+
 
