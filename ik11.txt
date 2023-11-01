@@ -19,3 +19,8 @@ First Name:  Illia
 Last Name:   Peretiatko
 YouTubeLink: https://www.youtube.com/watch?v=6eX9gPithBo&ab_channel=MeetingCpp
 // ================================================
+Number:      28
+First Name:  Oleksandr
+Last Name:   Topchiy
+YouTubeLink: https://www.youtube.com/watch?v=mYkhNWIdra0
+// ================================================
