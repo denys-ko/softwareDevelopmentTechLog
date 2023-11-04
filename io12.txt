@@ -14,6 +14,11 @@ First Name: Anton
 Last Name: Vorobiov
 YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 // ================================================
+Number:      12
+First Name:  Dmytro
+Last Name:   Klymchuk
+YouTubeLink: https://youtu.be/EgWjFpShaoo?si=yemEum4Cx8FZY6Ez
+// ================================================
 Number:      16
 First Name:  Oleksii
 Last Name:   Maksymenko
