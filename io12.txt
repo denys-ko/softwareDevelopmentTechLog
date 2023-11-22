@@ -23,3 +23,8 @@ Number:      16
 First Name:  Oleksii
 Last Name:   Maksymenko
 YouTubeLink: https://www.youtube.com/shorts/vwgV0dl9duo
+// ================================================
+Number:      22
+First Name:  Ihor
+Last Name:   Stuzhuk
+YouTubeLink: https://www.youtube.com/watch?v=jNQXAC9IVRw
