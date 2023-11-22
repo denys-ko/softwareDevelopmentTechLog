@@ -9,6 +9,11 @@ First Name: Taras
 Last Name: Vytvytskyi
 YouTubeLink: https://youtu.be/c39QPDTDdXU?si=LASXZV47Hrrd5xF5
 // ================================================
+Number:      3
+First Name:  Vlad
+Last Name:   Vovk
+YouTubeLink: https://www.youtube.com/watch?v=Wx7vo__48oE
+// ================================================
 Number: 4
 First Name: Anton
 Last Name: Vorobiov
