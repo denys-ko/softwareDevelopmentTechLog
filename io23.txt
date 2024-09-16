@@ -4,3 +4,11 @@ First Name:  Андрій
 Last Name:   Швед
 YouTubeLink: https://youtu.be/g14OjJQMHTY
 // ================================================
+
+
+// ================================================
+Number:      28
+First Name:  Олег
+Last Name:   Шмуляр
+YouTubeLink: https://www.youtube.com/watch?v=-fZ_TcDspwc
+// ================================================
