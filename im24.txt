@@ -1,0 +1,6 @@
+// ================================================
+Number:      06
+First Name:  Vladislav
+Last Name:   Kovalenko
+YouTubeLink: https://youtu.be/CYvJPra7Ebk?si=IPbR23gjZF4GVFW_
+// ================================================
