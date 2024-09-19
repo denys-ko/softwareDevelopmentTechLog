@@ -12,3 +12,10 @@ First Name:  Олег
 Last Name:   Шмуляр
 YouTubeLink: https://www.youtube.com/watch?v=-fZ_TcDspwc
 // ================================================
+
+// ================================================
+Number:      7
+First Name:  Влад
+Last Name:   Горбачов
+YouTubeLink: https://www.youtube.com/watch?v=SzJ46YA_RaA
+// ================================================
