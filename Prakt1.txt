@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    double a, b, z1, z2;
+
+    // Введення значень a та b
+    printf("Введіть значення a: ");
+    scanf("%lf", &a);
+    printf("Введіть значення b: ");
+    scanf("%lf", &b);
+
+    // Обчислення функцій z1 та z2
+    z1 = pow(cos(a) - cos(b), 2) - pow(sin(a) - sin(b), 2);
+    z2 = -4 * pow(sin((a - b) / 2), 2) * cos(a + b);
+
+    // Виведення результатів
+    printf("z1 = (cos(a) - cos(b))^2 - (sin(a) - sin(b))^2 = %lf\n", z1);
+    printf("z2 = -4 * sin^2((a - b) / 2) * cos(a + b) = %lf\n", z2);
+
+    return 0;
+}
