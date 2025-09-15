@@ -1,0 +1,6 @@
+// ================================================
+Number:      17
+First Name:  Artur
+Last Name:   Sanytskyi
+YouTubeLink: https://youtu.be/jdUXfsMTv7o
+// ================================================
