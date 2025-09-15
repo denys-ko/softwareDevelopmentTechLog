@@ -4,3 +4,8 @@ First Name:  Artur
 Last Name:   Sanytskyi
 YouTubeLink: https://youtu.be/jdUXfsMTv7o
 // ================================================
+Number:      18
+First Name:  Egor
+Last Name:   Priymak
+YouTubeLink: https://www.youtube.com/watch?v=6GB3_O9-iEw
+// ================================================
