@@ -1,0 +1,15 @@
+// ================================================
+Number:      10
+First Name:  Yelyzaveta
+Last Name:   Kyzym
+Youtube link: https://www.youtube.com/watch?v=HcHwICMSIqk&ab_channel=Kudas
+// ================================================
+
+// ================================================
+Number:      19
+First Name:  Hlib
+Last Name:   Meltsov
+Youtube link: https://youtu.be/1sFbLppuhhs?si=8ruUTlJqKEpBPj8P
+// ================================================
+
+
