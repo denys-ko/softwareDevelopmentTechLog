@@ -4,3 +4,8 @@ First Name:  Vladyslav
 Last Name:   Diachenko
 YouTubeLink: https://www.youtube.com/watch?v=Q10_srZ-pbs&list=WL&index=1
 // ================================================
+Number:      02
+First Name:  Olexandr
+Last Name:   Dolynko
+YouTubeLink: https://www.youtube.com/watch?v=Rsxao9ptdmI
+// ================================================
