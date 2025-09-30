@@ -4,3 +4,8 @@ First Name:  Pavlo
 Last Name:   Bovkun
 YouTubeLink: https://www.youtube.com/watch?v=J9aJQHJq4nc
 // ================================================
+Number:		 02
+First Name:	 Kyrylo
+Last Name:	 Kuziomko
+YoutubeLink: https://www.youtube.com/watch?v=2B8hDRHbNc4
+// ================================================
