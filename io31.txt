@@ -4,3 +4,9 @@ First Name:  Danylo
 Last Name:   Nahornyi
 YouTubeLink: https://www.youtube.com/watch?v=EY6q5dv_B-o
 // ================================================
+Number:      23
+First Name:  Olexiy
+Last Name:   Fariga
+YouTubeLink: https://www.youtube.com/watch?v=o8NPllzkFhE
+YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1
+// ================================================
