@@ -4,3 +4,8 @@ First Name: Oleh
 Last Name: Novik
 YouTubeLink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 // ==============================================
+Number: 14
+First Name: Kseniia
+Last Name: Sereda
+YouTubeLink: https://youtu.be/Wmhfn3mgWUI?list=PLCACDEE1E71FC8E5E
+// ==============================================
