@@ -4,3 +4,8 @@ First Name:  Mykhailo
 Last Name:   Vatolkin
 YouTubeLink: https://youtu.be/C0C3NK55tI8?si=7iEJGH813rwTwiJl
 // ================================================
+Number:      22
+First Name:  Nikita
+Last Name:   Oliinyk
+YouTubeLink: https://www.youtube.com/watch?v=IkCh8VfN2d4
+// ================================================
